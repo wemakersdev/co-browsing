@@ -5,6 +5,8 @@ import {
   TransporterEventHandler,
 } from './base';
 
+console.log({test:true})
+
 export class WebSocketTransporter<T> implements Transporter<T> {
   handlers: Record<TransporterEvents, Array<TransporterEventHandler>> = {
     [TransporterEvents.SourceReady]: [],
