@@ -540,6 +540,8 @@
   {/if}
 </div>
 
+abcsakdjsa
+
 {#if painting}
   <Canvas role="slave" bind:this={canvasEl} {...paintingConfig} />
 {/if}

@@ -56,5 +56,6 @@
     "@syncit/core": "^0.2.2",
     "agora-rtm-sdk": "^1.2.2",
     "peerjs": "^1.2.0"
-  }
+  },
+  "gitHead": "cb19326f34e1e6b4b0e186560d132dfaa51c92f6"
 }

@@ -37,5 +37,6 @@
     "pdfjs-dist": "^2.5.207",
     "rrweb": "^0.9.11",
     "sirv-cli": "^0.4.4"
-  }
+  },
+  "gitHead": "cb19326f34e1e6b4b0e186560d132dfaa51c92f6"
 }
